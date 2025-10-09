@@ -1,0 +1,562 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "b7d518e1-0b29-4aa9-883a-07ac20a30e43")
+	(paper "A4")
+	(lib_symbols)
+	(junction
+		(at 120.65 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a496678c-dba5-4cd1-a8f5-e84ad99ab702")
+	)
+	(bus
+		(pts
+			(xy 97.79 63.5) (xy 120.65 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07444373-ecac-4c8a-8958-91508f2a0524")
+	)
+	(bus
+		(pts
+			(xy 120.65 115.57) (xy 121.92 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08022b90-a195-4ffc-830e-2068c078b9eb")
+	)
+	(bus
+		(pts
+			(xy 217.17 63.5) (xy 196.85 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bfa5397-ca95-4163-b680-a68da2c39ed6")
+	)
+	(bus
+		(pts
+			(xy 196.85 83.82) (xy 217.17 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48f0555e-de28-4036-a0b0-ca2c48539e3c")
+	)
+	(bus
+		(pts
+			(xy 44.45 63.5) (xy 66.04 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "595eb8cb-e0bb-4d1a-a2d7-2706a23db306")
+	)
+	(bus
+		(pts
+			(xy 121.92 116.84) (xy 217.17 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "992d4649-aa50-4b05-ac81-cd4efff24ec1")
+	)
+	(bus
+		(pts
+			(xy 217.17 68.58) (xy 196.85 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9eebe17d-8149-4a01-baa5-eb76ab27b6bf")
+	)
+	(bus
+		(pts
+			(xy 196.85 81.28) (xy 217.17 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a802e815-526a-4203-a4ab-b030fb0bb4fd")
+	)
+	(bus
+		(pts
+			(xy 217.17 73.66) (xy 196.85 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf521759-e429-40f5-98b8-482eb1e2490c")
+	)
+	(bus
+		(pts
+			(xy 120.65 63.5) (xy 144.78 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c27008bf-58ee-4f81-b7d7-fc2b7e2282c7")
+	)
+	(bus
+		(pts
+			(xy 217.17 76.2) (xy 196.85 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6c3f420-811f-401c-b002-5e207a4880af")
+	)
+	(bus
+		(pts
+			(xy 217.17 66.04) (xy 196.85 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3b6b06a-1ade-4056-b0f1-fba23bc5b280")
+	)
+	(bus
+		(pts
+			(xy 120.65 63.5) (xy 120.65 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e628c875-c36b-443d-85e2-bacaf7bd9fb6")
+	)
+	(bus
+		(pts
+			(xy 196.85 78.74) (xy 217.17 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0773db8-8a85-42fe-9da2-63abc4860100")
+	)
+	(bus
+		(pts
+			(xy 217.17 71.12) (xy 196.85 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbc36a76-5c17-48a6-9950-33c2246df90d")
+	)
+	(bus
+		(pts
+			(xy 196.85 95.25) (xy 217.17 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc6ff440-108a-4a7f-bc29-785ab2e9f0e2")
+	)
+	(hierarchical_label "USB"
+		(shape bidirectional)
+		(at 217.17 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "08a24a0a-8190-448b-9752-25001bdbe44f")
+	)
+	(hierarchical_label "JTAG"
+		(shape bidirectional)
+		(at 44.45 63.5 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0ed427d0-f5da-47ed-a9f8-c51dbde387a9")
+	)
+	(hierarchical_label "ADC"
+		(shape bidirectional)
+		(at 217.17 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "217a28b3-d819-4dc2-83ab-e8061167cf50")
+	)
+	(hierarchical_label "Button"
+		(shape input)
+		(at 217.17 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "382e77a0-1826-4fed-a9bd-ad096a7aa1e5")
+	)
+	(hierarchical_label "Display"
+		(shape output)
+		(at 217.17 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "63a9b638-4258-40a9-b1af-05ca97a95f7f")
+	)
+	(hierarchical_label "PMOD"
+		(shape bidirectional)
+		(at 217.17 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9856f0fa-3db0-490b-a4c0-3d780063aa2b")
+	)
+	(hierarchical_label "Memory"
+		(shape bidirectional)
+		(at 217.17 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a444ded5-54e4-46d6-9aeb-1714093f923e")
+	)
+	(hierarchical_label "MISC"
+		(shape input)
+		(at 217.17 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c0a82afc-1ae4-4e62-a3aa-b1d4b78f648a")
+	)
+	(hierarchical_label "SW"
+		(shape input)
+		(at 217.17 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ccc469e1-c5d0-4eca-8899-7d107ee6a689")
+	)
+	(hierarchical_label "Rotary"
+		(shape input)
+		(at 217.17 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cdf8a3e1-910b-4b4a-8e43-53c39bd9c9f0")
+	)
+	(hierarchical_label "LED"
+		(shape output)
+		(at 217.17 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "de46d7df-70a3-4547-9d74-e15ef0f4741f")
+	)
+	(hierarchical_label "UART"
+		(shape bidirectional)
+		(at 217.17 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fa971ca6-fe92-49c6-a675-11b11666a189")
+	)
+	(sheet
+		(at 66.04 50.8)
+		(size 31.75 55.88)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "06269bbb-501f-494d-abbd-5b6960893b1f")
+		(property "Sheetname" "FPGA_Config"
+			(at 66.04 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA_Config.kicad_sch"
+			(at 66.04 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "JTAG" bidirectional
+			(at 66.04 63.5 180)
+			(uuid "b26b445f-44ef-45d1-a19a-e75bec4717c8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Memory" bidirectional
+			(at 97.79 63.5 0)
+			(uuid "33c66b0b-a090-4d58-b71d-863dd242d911")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "FPGA-Devel"
+				(path "/514220ac-dc4f-4c87-8659-0dec0ea0336d/976856ea-959b-4c07-aad7-358fbef1a1a7"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 50.8)
+		(size 52.07 55.88)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "58207613-8a41-40b1-91c5-fceb3f8a5814")
+		(property "Sheetname" "FPGA_IO"
+			(at 144.78 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA_IO.kicad_sch"
+			(at 144.78 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MISC" input
+			(at 196.85 71.12 0)
+			(uuid "9700cb1d-4b6b-4fe6-88b2-ff3fb4812c95")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Button" input
+			(at 196.85 73.66 0)
+			(uuid "6e4f1c0c-2e52-481a-b2bd-16c7c697fc44")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PMOD" bidirectional
+			(at 196.85 76.2 0)
+			(uuid "e9a8508b-b425-4712-94fe-af03031fc931")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SW" input
+			(at 196.85 68.58 0)
+			(uuid "40f12a18-8a80-44e4-ac13-407421ee77de")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LED" output
+			(at 196.85 66.04 0)
+			(uuid "eaf2ce00-040d-4a7c-959c-abefe516b1e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Display" output
+			(at 196.85 63.5 0)
+			(uuid "c78522a9-f06f-4e51-9608-f06323a6ca31")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART" bidirectional
+			(at 196.85 78.74 0)
+			(uuid "834e2cff-b401-4960-801c-d549e9ed5736")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Rotary" input
+			(at 196.85 81.28 0)
+			(uuid "aee8dc70-f958-4aab-b495-d89d671c976a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ADC" bidirectional
+			(at 196.85 95.25 0)
+			(uuid "fbf8eb4a-f095-4db9-be3a-b2fb4ffc3a64")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB" bidirectional
+			(at 196.85 83.82 0)
+			(uuid "8f4c73cd-6203-4784-8bc8-1418ac878e4b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Memory" bidirectional
+			(at 144.78 63.5 180)
+			(uuid "a3b7f2cd-97bd-4e98-be1c-0d4a036ef168")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "FPGA-Devel"
+				(path "/514220ac-dc4f-4c87-8659-0dec0ea0336d/976856ea-959b-4c07-aad7-358fbef1a1a7"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 66.04 128.27)
+		(size 57.15 49.53)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e4c274ea-b916-442a-b1f9-7e8d1f235b1c")
+		(property "Sheetname" "FPGA_Power"
+			(at 66.04 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA_Power.kicad_sch"
+			(at 66.04 178.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FPGA-Devel"
+				(path "/514220ac-dc4f-4c87-8659-0dec0ea0336d/976856ea-959b-4c07-aad7-358fbef1a1a7"
+					(page "7")
+				)
+			)
+		)
+	)
+)
