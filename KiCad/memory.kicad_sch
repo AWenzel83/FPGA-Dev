@@ -1834,7 +1834,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Library:SOIC-8_4_5.3_combo_P1.27mm"
 			(at 209.55 72.39 0)
 			(effects
 				(font

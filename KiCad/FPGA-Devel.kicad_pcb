@@ -69680,7 +69680,7 @@
 			(justify left top)
 		)
 	)
-	(gr_text "FPGA-Dev. v1.0\nAndreas Wenzel, 23.09.2025"
+	(gr_text "FPGA-Dev. v1.01\nAndreas Wenzel, 22.10.2025"
 		(at 109.093 137.541 0)
 		(layer "F.SilkS")
 		(uuid "7d7a9540-2a80-469e-8d43-7b48b04759df")
