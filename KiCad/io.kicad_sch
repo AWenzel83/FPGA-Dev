@@ -3238,7 +3238,7 @@
 		(uuid "16168f11-171a-48bb-a3c7-8db70503a4cf")
 	)
 	(junction
-		(at 62.23 90.17)
+		(at 55.88 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2877ee1e-0f6c-4896-884c-ba44f306cb1f")
@@ -3298,7 +3298,7 @@
 		(uuid "4af5d1e9-cf83-4bf0-98c3-7b2de88fa194")
 	)
 	(junction
-		(at 59.69 92.71)
+		(at 53.34 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4e10c65e-a81f-45b8-b723-cf5e475fc217")
@@ -3382,7 +3382,7 @@
 		(uuid "78af2d5a-cede-45c3-8db1-5e7e28f3a77b")
 	)
 	(junction
-		(at 86.36 102.87)
+		(at 81.28 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c00ceff-43ce-44e8-b008-fc8013d7be1b")
@@ -3418,7 +3418,7 @@
 		(uuid "8b85b373-1fe7-4da5-b719-1d65613e8b28")
 	)
 	(junction
-		(at 74.93 90.17)
+		(at 69.85 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8dd18b5a-4520-41e4-906f-d0d7faba2c79")
@@ -3442,7 +3442,7 @@
 		(uuid "9a5f70fc-5344-4377-9870-a10235fa7587")
 	)
 	(junction
-		(at 67.31 123.19)
+		(at 60.96 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9c17a496-783b-4e4d-a79f-562c8b5827fe")
@@ -3520,7 +3520,7 @@
 		(uuid "e0c54031-423a-4373-b2ef-0752b64cd469")
 	)
 	(junction
-		(at 64.77 125.73)
+		(at 58.42 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e5e93405-a1fb-4c55-910c-a31ee805c261")
@@ -3544,7 +3544,7 @@
 		(uuid "f2be1699-caf6-45c9-8bac-e74c55e3ec4b")
 	)
 	(junction
-		(at 105.41 171.45)
+		(at 71.12 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ff1f09a0-2a00-4949-a31d-b54937d513d1")
@@ -4086,7 +4086,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 87.63) (xy 99.06 110.49)
+			(xy 93.98 87.63) (xy 93.98 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4156,7 +4156,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 157.48) (xy 121.92 162.56)
+			(xy 87.63 157.48) (xy 87.63 162.56)
 		)
 		(stroke
 			(width 0)
@@ -4186,7 +4186,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 180.34) (xy 105.41 182.88)
+			(xy 71.12 180.34) (xy 71.12 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4246,7 +4246,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 134.62) (xy 59.69 140.97)
+			(xy 53.34 134.62) (xy 53.34 140.97)
 		)
 		(stroke
 			(width 0)
@@ -4346,7 +4346,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 87.63) (xy 86.36 102.87)
+			(xy 81.28 87.63) (xy 81.28 102.87)
 		)
 		(stroke
 			(width 0)
@@ -4476,7 +4476,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 123.19) (xy 67.31 123.19)
+			(xy 35.56 123.19) (xy 60.96 123.19)
 		)
 		(stroke
 			(width 0)
@@ -4526,7 +4526,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 90.17) (xy 74.93 110.49)
+			(xy 69.85 90.17) (xy 69.85 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4566,7 +4566,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 125.73) (xy 64.77 129.54)
+			(xy 58.42 125.73) (xy 58.42 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4586,7 +4586,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 160.02) (xy 125.73 182.88)
+			(xy 91.44 160.02) (xy 91.44 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4736,7 +4736,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 134.62) (xy 67.31 140.97)
+			(xy 60.96 134.62) (xy 60.96 140.97)
 		)
 		(stroke
 			(width 0)
@@ -4756,7 +4756,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 102.87) (xy 86.36 120.65)
+			(xy 81.28 102.87) (xy 81.28 120.65)
 		)
 		(stroke
 			(width 0)
@@ -4896,7 +4896,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 171.45) (xy 128.27 171.45)
+			(xy 86.36 171.45) (xy 93.98 171.45)
 		)
 		(stroke
 			(width 0)
@@ -4986,7 +4986,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 171.45) (xy 105.41 171.45)
+			(xy 35.56 171.45) (xy 71.12 171.45)
 		)
 		(stroke
 			(width 0)
@@ -5046,7 +5046,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 171.45) (xy 105.41 175.26)
+			(xy 71.12 171.45) (xy 71.12 175.26)
 		)
 		(stroke
 			(width 0)
@@ -5076,7 +5076,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 120.65) (xy 76.2 120.65)
+			(xy 50.8 120.65) (xy 71.12 120.65)
 		)
 		(stroke
 			(width 0)
@@ -5086,7 +5086,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 157.48) (xy 128.27 171.45)
+			(xy 93.98 157.48) (xy 93.98 171.45)
 		)
 		(stroke
 			(width 0)
@@ -5116,7 +5116,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 171.45) (xy 110.49 171.45)
+			(xy 71.12 171.45) (xy 76.2 171.45)
 		)
 		(stroke
 			(width 0)
@@ -5126,7 +5126,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 165.1) (xy 119.38 165.1)
+			(xy 39.37 165.1) (xy 85.09 165.1)
 		)
 		(stroke
 			(width 0)
@@ -5136,7 +5136,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 87.63) (xy 74.93 90.17)
+			(xy 69.85 87.63) (xy 69.85 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5176,7 +5176,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 90.17) (xy 62.23 129.54)
+			(xy 55.88 90.17) (xy 55.88 129.54)
 		)
 		(stroke
 			(width 0)
@@ -5216,7 +5216,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 125.73) (xy 64.77 125.73)
+			(xy 35.56 125.73) (xy 58.42 125.73)
 		)
 		(stroke
 			(width 0)
@@ -5246,7 +5246,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 92.71) (xy 118.11 92.71)
+			(xy 53.34 92.71) (xy 118.11 92.71)
 		)
 		(stroke
 			(width 0)
@@ -5356,7 +5356,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 92.71) (xy 59.69 92.71)
+			(xy 35.56 92.71) (xy 53.34 92.71)
 		)
 		(stroke
 			(width 0)
@@ -5426,7 +5426,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 160.02) (xy 125.73 160.02)
+			(xy 83.82 160.02) (xy 91.44 160.02)
 		)
 		(stroke
 			(width 0)
@@ -5436,7 +5436,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 123.19) (xy 105.41 123.19)
+			(xy 60.96 123.19) (xy 105.41 123.19)
 		)
 		(stroke
 			(width 0)
@@ -5446,7 +5446,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 162.56) (xy 115.57 162.56)
+			(xy 39.37 162.56) (xy 81.28 162.56)
 		)
 		(stroke
 			(width 0)
@@ -5776,7 +5776,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 90.17) (xy 63.5 90.17)
+			(xy 55.88 90.17) (xy 58.42 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5816,7 +5816,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 157.48) (xy 109.22 160.02)
+			(xy 74.93 157.48) (xy 74.93 160.02)
 		)
 		(stroke
 			(width 0)
@@ -5826,7 +5826,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 92.71) (xy 59.69 129.54)
+			(xy 53.34 92.71) (xy 53.34 129.54)
 		)
 		(stroke
 			(width 0)
@@ -5916,7 +5916,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 134.62) (xy 62.23 140.97)
+			(xy 55.88 134.62) (xy 55.88 140.97)
 		)
 		(stroke
 			(width 0)
@@ -5946,7 +5946,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 134.62) (xy 64.77 140.97)
+			(xy 58.42 134.62) (xy 58.42 140.97)
 		)
 		(stroke
 			(width 0)
@@ -5956,7 +5956,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 90.17) (xy 74.93 90.17)
+			(xy 68.58 90.17) (xy 69.85 90.17)
 		)
 		(stroke
 			(width 0)
@@ -6166,7 +6166,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 167.64) (xy 121.92 182.88)
+			(xy 87.63 167.64) (xy 87.63 182.88)
 		)
 		(stroke
 			(width 0)
@@ -6216,7 +6216,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 113.03) (xy 88.9 113.03)
+			(xy 48.26 113.03) (xy 83.82 113.03)
 		)
 		(stroke
 			(width 0)
@@ -6346,7 +6346,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 102.87) (xy 76.2 102.87)
+			(xy 43.18 102.87) (xy 71.12 102.87)
 		)
 		(stroke
 			(width 0)
@@ -6396,7 +6396,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 160.02) (xy 113.03 160.02)
+			(xy 74.93 160.02) (xy 78.74 160.02)
 		)
 		(stroke
 			(width 0)
@@ -6466,7 +6466,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 90.17) (xy 62.23 90.17)
+			(xy 35.56 90.17) (xy 55.88 90.17)
 		)
 		(stroke
 			(width 0)
@@ -6486,7 +6486,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 113.03) (xy 88.9 110.49)
+			(xy 83.82 113.03) (xy 83.82 110.49)
 		)
 		(stroke
 			(width 0)
@@ -6566,7 +6566,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 123.19) (xy 67.31 129.54)
+			(xy 60.96 123.19) (xy 60.96 129.54)
 		)
 		(stroke
 			(width 0)
@@ -6616,7 +6616,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 125.73) (xy 118.11 125.73)
+			(xy 58.42 125.73) (xy 118.11 125.73)
 		)
 		(stroke
 			(width 0)
@@ -6686,7 +6686,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 110.49) (xy 64.77 110.49)
+			(xy 45.72 110.49) (xy 59.69 110.49)
 		)
 		(stroke
 			(width 0)
@@ -7539,7 +7539,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Omron_B3FS")
-		(at 81.28 120.65 0)
+		(at 76.2 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7548,7 +7548,7 @@
 		(fields_autoplaced yes)
 		(uuid "0500c6e6-5aea-4625-9219-31b120293f97")
 		(property "Reference" "SW411"
-			(at 81.28 115.57 0)
+			(at 76.2 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7556,7 +7556,7 @@
 			)
 		)
 		(property "Value" "SW_Omron_B3FS"
-			(at 81.28 115.57 0)
+			(at 76.2 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7565,7 +7565,7 @@
 			)
 		)
 		(property "Footprint" "Library:SW_PUSH_6mm_H4.3mm"
-			(at 81.28 115.57 0)
+			(at 76.2 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7574,7 +7574,7 @@
 			)
 		)
 		(property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf"
-			(at 81.28 115.57 0)
+			(at 76.2 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7583,7 +7583,7 @@
 			)
 		)
 		(property "Description" "Omron B3FS 6x6mm single pole normally-open tactile switch"
-			(at 81.28 120.65 0)
+			(at 76.2 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7592,7 +7592,7 @@
 			)
 		)
 		(property "Würth" "430186043716"
-			(at 81.28 120.65 0)
+			(at 76.2 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7845,7 +7845,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 109.22 157.48 0)
+		(at 74.93 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7854,7 +7854,7 @@
 		(fields_autoplaced yes)
 		(uuid "0ee4fdf9-385e-404f-aa32-679c7646c8b0")
 		(property "Reference" "#PWR0449"
-			(at 109.22 161.29 0)
+			(at 74.93 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7863,7 +7863,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 109.22 152.4 0)
+			(at 74.93 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7871,7 +7871,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 157.48 0)
+			(at 74.93 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7880,7 +7880,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 157.48 0)
+			(at 74.93 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7889,7 +7889,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 109.22 157.48 0)
+			(at 74.93 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7911,7 +7911,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 62.23 132.08 0)
+		(at 55.88 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7919,7 +7919,7 @@
 		(dnp no)
 		(uuid "0fbaad68-c661-4f65-968a-6e2ae10b76ea")
 		(property "Reference" "R446"
-			(at 61.722 134.366 90)
+			(at 55.372 134.366 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7928,7 +7928,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 61.722 130.302 90)
+			(at 55.372 130.302 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7937,7 +7937,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 62.23 132.08 0)
+			(at 55.88 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7946,7 +7946,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 62.23 132.08 0)
+			(at 55.88 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7955,7 +7955,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 62.23 132.08 0)
+			(at 55.88 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7964,7 +7964,7 @@
 			)
 		)
 		(property "Würth" "560112110020"
-			(at 62.23 132.08 0)
+			(at 55.88 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8067,7 +8067,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 128.27 157.48 0)
+		(at 93.98 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8076,7 +8076,7 @@
 		(fields_autoplaced yes)
 		(uuid "13d4a339-e873-4841-8106-83651af22ae9")
 		(property "Reference" "#PWR0448"
-			(at 128.27 161.29 0)
+			(at 93.98 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8085,7 +8085,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 128.27 152.4 0)
+			(at 93.98 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8093,7 +8093,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 157.48 0)
+			(at 93.98 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8102,7 +8102,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 157.48 0)
+			(at 93.98 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8111,7 +8111,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 128.27 157.48 0)
+			(at 93.98 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8209,7 +8209,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 121.92 157.48 0)
+		(at 87.63 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8218,7 +8218,7 @@
 		(fields_autoplaced yes)
 		(uuid "1c853e18-dbab-4d69-b77a-c66bdb585bcd")
 		(property "Reference" "#PWR0447"
-			(at 121.92 161.29 0)
+			(at 87.63 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8227,7 +8227,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 121.92 152.4 0)
+			(at 87.63 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8235,7 +8235,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.92 157.48 0)
+			(at 87.63 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8244,7 +8244,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 157.48 0)
+			(at 87.63 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8253,7 +8253,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 121.92 157.48 0)
+			(at 87.63 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8275,7 +8275,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 105.41 182.88 0)
+		(at 71.12 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8284,7 +8284,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ed680b3-c2c5-4977-85bc-fa6dfdbdcafc")
 		(property "Reference" "#PWR0444"
-			(at 105.41 189.23 0)
+			(at 71.12 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8293,7 +8293,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 105.41 187.96 0)
+			(at 71.12 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8301,7 +8301,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 105.41 182.88 0)
+			(at 71.12 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8310,7 +8310,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 182.88 0)
+			(at 71.12 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8319,7 +8319,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 105.41 182.88 0)
+			(at 71.12 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8341,7 +8341,7 @@
 	)
 	(symbol
 		(lib_id "FPGA-Devel:RKJXV1224")
-		(at 115.57 160.02 270)
+		(at 81.28 160.02 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8349,7 +8349,7 @@
 		(dnp no)
 		(uuid "1f01b73e-2639-4ba1-b6d1-2f7960086a71")
 		(property "Reference" "SW413"
-			(at 115.57 157.734 90)
+			(at 81.28 157.734 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8357,7 +8357,7 @@
 			)
 		)
 		(property "Value" "RKJXV1224"
-			(at 115.57 157.48 90)
+			(at 81.28 157.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8365,7 +8365,7 @@
 			)
 		)
 		(property "Footprint" "Library:RKJXV1224"
-			(at 115.57 160.02 0)
+			(at 81.28 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8374,7 +8374,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 160.02 0)
+			(at 81.28 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8383,7 +8383,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 160.02 0)
+			(at 81.28 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8392,7 +8392,7 @@
 			)
 		)
 		(property "Würth" "-"
-			(at 115.57 160.02 0)
+			(at 81.28 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9688,7 +9688,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 64.77 140.97 0)
+		(at 58.42 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9697,7 +9697,7 @@
 		(fields_autoplaced yes)
 		(uuid "37afad55-1b45-4fc3-bcbd-77c56b463c63")
 		(property "Reference" "#PWR0435"
-			(at 64.77 147.32 0)
+			(at 58.42 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9706,7 +9706,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 64.77 146.05 0)
+			(at 58.42 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9714,7 +9714,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 64.77 140.97 0)
+			(at 58.42 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9723,7 +9723,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 140.97 0)
+			(at 58.42 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9732,7 +9732,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.77 140.97 0)
+			(at 58.42 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9899,7 +9899,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 64.77 132.08 0)
+		(at 58.42 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9907,7 +9907,7 @@
 		(dnp no)
 		(uuid "3dccae91-8882-4812-bc5d-baee61ec86cb")
 		(property "Reference" "R447"
-			(at 64.262 134.366 90)
+			(at 57.912 134.366 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9916,7 +9916,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 64.262 130.302 90)
+			(at 57.912 130.302 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9925,7 +9925,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 64.77 132.08 0)
+			(at 58.42 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9934,7 +9934,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 64.77 132.08 0)
+			(at 58.42 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9943,7 +9943,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 64.77 132.08 0)
+			(at 58.42 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9952,7 +9952,7 @@
 			)
 		)
 		(property "Würth" "560112110020"
-			(at 64.77 132.08 0)
+			(at 58.42 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9977,7 +9977,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 59.69 132.08 0)
+		(at 53.34 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9985,7 +9985,7 @@
 		(dnp no)
 		(uuid "40474280-8d2f-4e2c-a876-ffffcef13b45")
 		(property "Reference" "R445"
-			(at 59.182 134.366 90)
+			(at 52.832 134.366 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9994,7 +9994,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 59.182 130.302 90)
+			(at 52.832 130.302 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10003,7 +10003,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 59.69 132.08 0)
+			(at 53.34 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10012,7 +10012,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 59.69 132.08 0)
+			(at 53.34 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10021,7 +10021,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 59.69 132.08 0)
+			(at 53.34 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10030,7 +10030,7 @@
 			)
 		)
 		(property "Würth" "560112110020"
-			(at 59.69 132.08 0)
+			(at 53.34 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10603,7 +10603,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Omron_B3FS")
-		(at 81.28 102.87 0)
+		(at 76.2 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10612,7 +10612,7 @@
 		(fields_autoplaced yes)
 		(uuid "48ce5f1b-4ebc-46bc-8af8-65180bccb258")
 		(property "Reference" "SW406"
-			(at 81.28 97.79 0)
+			(at 76.2 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10620,7 +10620,7 @@
 			)
 		)
 		(property "Value" "SW_Omron_B3FS"
-			(at 81.28 97.79 0)
+			(at 76.2 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10629,7 +10629,7 @@
 			)
 		)
 		(property "Footprint" "Library:SW_PUSH_6mm_H4.3mm"
-			(at 81.28 97.79 0)
+			(at 76.2 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10638,7 +10638,7 @@
 			)
 		)
 		(property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf"
-			(at 81.28 97.79 0)
+			(at 76.2 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10647,7 +10647,7 @@
 			)
 		)
 		(property "Description" "Omron B3FS 6x6mm single pole normally-open tactile switch"
-			(at 81.28 102.87 0)
+			(at 76.2 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10656,7 +10656,7 @@
 			)
 		)
 		(property "Würth" "430186043716"
-			(at 81.28 102.87 0)
+			(at 76.2 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10968,7 +10968,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 67.31 132.08 0)
+		(at 60.96 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10976,7 +10976,7 @@
 		(dnp no)
 		(uuid "59843966-392c-4815-a84a-1a2dd40b777e")
 		(property "Reference" "R448"
-			(at 66.802 134.366 90)
+			(at 60.452 134.366 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10985,7 +10985,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 66.802 130.302 90)
+			(at 60.452 130.302 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10994,7 +10994,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 67.31 132.08 0)
+			(at 60.96 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11003,7 +11003,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 67.31 132.08 0)
+			(at 60.96 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11012,7 +11012,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 67.31 132.08 0)
+			(at 60.96 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11021,7 +11021,7 @@
 			)
 		)
 		(property "Würth" "560112110020"
-			(at 67.31 132.08 0)
+			(at 60.96 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11410,7 +11410,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Omron_B3FS")
-		(at 93.98 110.49 0)
+		(at 88.9 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11419,7 +11419,7 @@
 		(fields_autoplaced yes)
 		(uuid "6add30d9-84ed-4382-829d-1287645dd8b2")
 		(property "Reference" "SW408"
-			(at 93.98 105.41 0)
+			(at 88.9 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11427,7 +11427,7 @@
 			)
 		)
 		(property "Value" "SW_Omron_B3FS"
-			(at 93.98 105.41 0)
+			(at 88.9 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11436,7 +11436,7 @@
 			)
 		)
 		(property "Footprint" "Library:SW_PUSH_6mm_H4.3mm"
-			(at 93.98 105.41 0)
+			(at 88.9 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11445,7 +11445,7 @@
 			)
 		)
 		(property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf"
-			(at 93.98 105.41 0)
+			(at 88.9 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11454,7 +11454,7 @@
 			)
 		)
 		(property "Description" "Omron B3FS 6x6mm single pole normally-open tactile switch"
-			(at 93.98 110.49 0)
+			(at 88.9 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11463,7 +11463,7 @@
 			)
 		)
 		(property "Würth" "430186043716"
-			(at 93.98 110.49 0)
+			(at 88.9 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11774,7 +11774,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 99.06 87.63 0)
+		(at 93.98 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11783,7 +11783,7 @@
 		(fields_autoplaced yes)
 		(uuid "788d3194-6bb0-49d8-8471-64065c0cd408")
 		(property "Reference" "#PWR0420"
-			(at 99.06 91.44 0)
+			(at 93.98 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11792,7 +11792,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 99.06 82.55 0)
+			(at 93.98 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11800,7 +11800,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 87.63 0)
+			(at 93.98 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11809,7 +11809,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 87.63 0)
+			(at 93.98 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11818,7 +11818,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 99.06 87.63 0)
+			(at 93.98 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11916,7 +11916,7 @@
 	)
 	(symbol
 		(lib_id "FPGA-Devel:RKJXV1224")
-		(at 121.92 165.1 180)
+		(at 87.63 165.1 180)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11925,7 +11925,7 @@
 		(fields_autoplaced yes)
 		(uuid "7a1dc814-f458-4a05-8e41-afc954dd2923")
 		(property "Reference" "SW413"
-			(at 124.46 164.4649 0)
+			(at 90.17 164.4649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11935,7 +11935,7 @@
 			)
 		)
 		(property "Value" "RKJXV1224"
-			(at 124.46 165.1 0)
+			(at 90.17 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11944,7 +11944,7 @@
 			)
 		)
 		(property "Footprint" "Library:RKJXV1224"
-			(at 121.92 165.1 0)
+			(at 87.63 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11953,7 +11953,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 165.1 0)
+			(at 87.63 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11962,7 +11962,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 121.92 165.1 0)
+			(at 87.63 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11971,7 +11971,7 @@
 			)
 		)
 		(property "Würth" "-"
-			(at 121.92 165.1 0)
+			(at 87.63 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12098,7 +12098,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Omron_B3FS")
-		(at 68.58 90.17 0)
+		(at 63.5 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12106,7 +12106,7 @@
 		(dnp no)
 		(uuid "7e6e7a9d-924e-4e1a-a06f-ecf5ea736322")
 		(property "Reference" "SW403"
-			(at 65.278 86.106 0)
+			(at 60.198 86.106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12115,7 +12115,7 @@
 			)
 		)
 		(property "Value" "SW_Omron_B3FS"
-			(at 68.58 85.09 0)
+			(at 63.5 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12124,7 +12124,7 @@
 			)
 		)
 		(property "Footprint" "Library:SW_Tactile_SPST_Angled_PTS645Vx39-2LFS"
-			(at 68.58 85.09 0)
+			(at 63.5 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12133,7 +12133,7 @@
 			)
 		)
 		(property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf"
-			(at 68.58 85.09 0)
+			(at 63.5 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12142,7 +12142,7 @@
 			)
 		)
 		(property "Description" "Omron B3FS 6x6mm single pole normally-open tactile switch"
-			(at 68.58 90.17 0)
+			(at 63.5 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12151,7 +12151,7 @@
 			)
 		)
 		(property "Würth" "431256031716"
-			(at 68.58 90.17 0)
+			(at 63.5 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12242,7 +12242,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 86.36 87.63 0)
+		(at 81.28 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12251,7 +12251,7 @@
 		(fields_autoplaced yes)
 		(uuid "81a50efb-8708-4b06-ab21-977be02beb9b")
 		(property "Reference" "#PWR0419"
-			(at 86.36 91.44 0)
+			(at 81.28 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12260,7 +12260,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 86.36 82.55 0)
+			(at 81.28 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12268,7 +12268,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 86.36 87.63 0)
+			(at 81.28 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12277,7 +12277,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 87.63 0)
+			(at 81.28 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12286,7 +12286,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 86.36 87.63 0)
+			(at 81.28 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12987,7 +12987,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Omron_B3FS")
-		(at 69.85 110.49 0)
+		(at 64.77 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12996,7 +12996,7 @@
 		(fields_autoplaced yes)
 		(uuid "99649761-8146-4d7d-9509-8f5214ca7479")
 		(property "Reference" "SW407"
-			(at 69.85 105.41 0)
+			(at 64.77 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13004,7 +13004,7 @@
 			)
 		)
 		(property "Value" "SW_Omron_B3FS"
-			(at 69.85 105.41 0)
+			(at 64.77 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13013,7 +13013,7 @@
 			)
 		)
 		(property "Footprint" "Library:SW_PUSH_6mm_H4.3mm"
-			(at 69.85 105.41 0)
+			(at 64.77 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13022,7 +13022,7 @@
 			)
 		)
 		(property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf"
-			(at 69.85 105.41 0)
+			(at 64.77 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13031,7 +13031,7 @@
 			)
 		)
 		(property "Description" "Omron B3FS 6x6mm single pole normally-open tactile switch"
-			(at 69.85 110.49 0)
+			(at 64.77 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13040,7 +13040,7 @@
 			)
 		)
 		(property "Würth" "430186043716"
-			(at 69.85 110.49 0)
+			(at 64.77 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13065,7 +13065,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 62.23 140.97 0)
+		(at 55.88 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13074,7 +13074,7 @@
 		(fields_autoplaced yes)
 		(uuid "9c34e453-0071-4650-8ab9-c9e7f62feedd")
 		(property "Reference" "#PWR0434"
-			(at 62.23 147.32 0)
+			(at 55.88 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13083,7 +13083,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 62.23 146.05 0)
+			(at 55.88 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13091,7 +13091,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 140.97 0)
+			(at 55.88 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13100,7 +13100,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 140.97 0)
+			(at 55.88 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13109,7 +13109,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 62.23 140.97 0)
+			(at 55.88 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13131,7 +13131,7 @@
 	)
 	(symbol
 		(lib_id "FPGA-Devel:RKJXV1224")
-		(at 115.57 171.45 0)
+		(at 81.28 171.45 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13139,7 +13139,7 @@
 		(dnp no)
 		(uuid "9caa3dd7-46f7-4ff6-afef-469a21625227")
 		(property "Reference" "SW413"
-			(at 115.57 165.1 0)
+			(at 81.28 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13148,7 +13148,7 @@
 			)
 		)
 		(property "Value" "RKJXV1224"
-			(at 115.57 166.37 0)
+			(at 81.28 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13156,7 +13156,7 @@
 			)
 		)
 		(property "Footprint" "Library:RKJXV1224"
-			(at 115.57 171.45 0)
+			(at 81.28 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13165,7 +13165,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 171.45 0)
+			(at 81.28 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13174,7 +13174,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 171.45 0)
+			(at 81.28 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13183,7 +13183,7 @@
 			)
 		)
 		(property "Würth" "-"
-			(at 115.57 171.45 0)
+			(at 81.28 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13232,7 +13232,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 67.31 140.97 0)
+		(at 60.96 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13241,7 +13241,7 @@
 		(fields_autoplaced yes)
 		(uuid "a4159588-f608-4bcb-bf4a-826ee69f6d26")
 		(property "Reference" "#PWR0436"
-			(at 67.31 147.32 0)
+			(at 60.96 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13250,7 +13250,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 67.31 146.05 0)
+			(at 60.96 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13258,7 +13258,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 67.31 140.97 0)
+			(at 60.96 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13267,7 +13267,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 140.97 0)
+			(at 60.96 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13276,7 +13276,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 67.31 140.97 0)
+			(at 60.96 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13639,7 +13639,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 121.92 182.88 0)
+		(at 87.63 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13648,7 +13648,7 @@
 		(fields_autoplaced yes)
 		(uuid "ae2da2ad-0f5a-44e9-a31a-c07961911b9a")
 		(property "Reference" "#PWR0445"
-			(at 121.92 189.23 0)
+			(at 87.63 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13657,7 +13657,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 121.92 187.96 0)
+			(at 87.63 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13665,7 +13665,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.92 182.88 0)
+			(at 87.63 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13674,7 +13674,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 182.88 0)
+			(at 87.63 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13683,7 +13683,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 121.92 182.88 0)
+			(at 87.63 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13855,7 +13855,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 59.69 140.97 0)
+		(at 53.34 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13864,7 +13864,7 @@
 		(fields_autoplaced yes)
 		(uuid "b392e8dd-3325-4e0a-8e96-90897d1e504e")
 		(property "Reference" "#PWR0433"
-			(at 59.69 147.32 0)
+			(at 53.34 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13873,7 +13873,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 59.69 146.05 0)
+			(at 53.34 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13881,7 +13881,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 59.69 140.97 0)
+			(at 53.34 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13890,7 +13890,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 140.97 0)
+			(at 53.34 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13899,7 +13899,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 59.69 140.97 0)
+			(at 53.34 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13987,7 +13987,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 125.73 182.88 0)
+		(at 91.44 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13996,7 +13996,7 @@
 		(fields_autoplaced yes)
 		(uuid "b9a732e0-e589-4958-a164-bf63c0422ddc")
 		(property "Reference" "#PWR0446"
-			(at 125.73 189.23 0)
+			(at 91.44 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14005,7 +14005,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 125.73 187.96 0)
+			(at 91.44 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14013,7 +14013,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 182.88 0)
+			(at 91.44 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14022,7 +14022,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 182.88 0)
+			(at 91.44 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14031,7 +14031,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 125.73 182.88 0)
+			(at 91.44 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14885,7 +14885,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 105.41 177.8 0)
+		(at 71.12 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14894,7 +14894,7 @@
 		(fields_autoplaced yes)
 		(uuid "cbf2a9d8-9384-4a91-8f37-e1ff6f977286")
 		(property "Reference" "R418"
-			(at 107.95 176.5299 0)
+			(at 73.66 176.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14903,7 +14903,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 107.95 179.0699 0)
+			(at 73.66 179.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14912,7 +14912,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 105.41 177.8 0)
+			(at 71.12 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14921,7 +14921,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 177.8 0)
+			(at 71.12 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14930,7 +14930,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 105.41 177.8 0)
+			(at 71.12 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14939,7 +14939,7 @@
 			)
 		)
 		(property "Würth" "560112110020"
-			(at 105.41 177.8 0)
+			(at 71.12 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14964,7 +14964,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 74.93 87.63 0)
+		(at 69.85 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14973,7 +14973,7 @@
 		(fields_autoplaced yes)
 		(uuid "d0538be3-ddc0-4b4e-bf8a-3dc1ba0e802f")
 		(property "Reference" "#PWR0418"
-			(at 74.93 91.44 0)
+			(at 69.85 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14982,7 +14982,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 74.93 82.55 0)
+			(at 69.85 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14990,7 +14990,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 87.63 0)
+			(at 69.85 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14999,7 +14999,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 87.63 0)
+			(at 69.85 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15008,7 +15008,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 74.93 87.63 0)
+			(at 69.85 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
