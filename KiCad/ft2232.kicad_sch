@@ -3375,12 +3375,6 @@
 		(uuid "378a8fe8-89e2-4335-95ba-21da4503a8df")
 	)
 	(junction
-		(at 55.88 146.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3d2983d5-1ed9-4116-a491-35c2086f1fca")
-	)
-	(junction
 		(at 142.24 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3433,6 +3427,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8453b452-161e-4b1e-a8f2-5d0c0e0cb290")
+	)
+	(junction
+		(at 55.88 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b0722d3-bfbd-4509-8fae-6f657edecf5e")
 	)
 	(junction
 		(at 49.53 80.01)
@@ -3806,7 +3806,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 133.35) (xy 58.42 137.16)
+			(xy 58.42 127) (xy 58.42 130.81)
 		)
 		(stroke
 			(width 0)
@@ -4006,7 +4006,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 133.35) (xy 24.13 138.43)
+			(xy 24.13 127) (xy 24.13 132.08)
 		)
 		(stroke
 			(width 0)
@@ -4136,16 +4136,6 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 142.24) (xy 58.42 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4cebfc04-7f37-4990-a23b-aa5860ab07f7")
-	)
-	(wire
-		(pts
 			(xy 121.92 156.21) (xy 121.92 158.75)
 		)
 		(stroke
@@ -4156,7 +4146,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 142.24) (xy 55.88 146.05)
+			(xy 55.88 135.89) (xy 55.88 143.51)
 		)
 		(stroke
 			(width 0)
@@ -4476,7 +4466,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 133.35) (xy 41.91 148.59)
+			(xy 41.91 127) (xy 41.91 148.59)
 		)
 		(stroke
 			(width 0)
@@ -4706,7 +4696,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 118.11) (xy 72.39 146.05)
+			(xy 72.39 118.11) (xy 72.39 143.51)
 		)
 		(stroke
 			(width 0)
@@ -4743,6 +4733,16 @@
 			(type default)
 		)
 		(uuid "b5c7d3c6-8e3e-42cc-a259-d120b9045d09")
+	)
+	(wire
+		(pts
+			(xy 58.42 135.89) (xy 58.42 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7efc3df-e971-40ca-9729-3afbdc6b9fcb")
 	)
 	(wire
 		(pts
@@ -4946,7 +4946,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 146.05) (xy 31.75 146.05)
+			(xy 55.88 143.51) (xy 31.75 143.51)
 		)
 		(stroke
 			(width 0)
@@ -5036,7 +5036,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 133.35) (xy 55.88 137.16)
+			(xy 55.88 127) (xy 55.88 130.81)
 		)
 		(stroke
 			(width 0)
@@ -5106,7 +5106,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 143.51) (xy 24.13 166.37)
+			(xy 24.13 137.16) (xy 24.13 166.37)
 		)
 		(stroke
 			(width 0)
@@ -5216,7 +5216,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 146.05) (xy 55.88 146.05)
+			(xy 72.39 143.51) (xy 55.88 143.51)
 		)
 		(stroke
 			(width 0)
@@ -5226,7 +5226,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 133.35) (xy 60.96 137.16)
+			(xy 60.96 127) (xy 60.96 130.81)
 		)
 		(stroke
 			(width 0)
@@ -5246,7 +5246,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 142.24) (xy 60.96 156.21)
+			(xy 60.96 135.89) (xy 60.96 156.21)
 		)
 		(stroke
 			(width 0)
@@ -5266,7 +5266,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 146.05) (xy 31.75 153.67)
+			(xy 31.75 143.51) (xy 31.75 153.67)
 		)
 		(stroke
 			(width 0)
@@ -5930,7 +5930,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 60.96 133.35 0)
+		(at 60.96 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5939,7 +5939,7 @@
 		(fields_autoplaced yes)
 		(uuid "2a9750b3-7798-42e6-a7bc-57a92b1573aa")
 		(property "Reference" "#PWR0834"
-			(at 60.96 137.16 0)
+			(at 60.96 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5948,7 +5948,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 60.96 128.27 0)
+			(at 60.96 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5956,7 +5956,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 133.35 0)
+			(at 60.96 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5965,7 +5965,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 133.35 0)
+			(at 60.96 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5974,7 +5974,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 60.96 133.35 0)
+			(at 60.96 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6948,7 +6948,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 58.42 133.35 0)
+		(at 58.42 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6957,7 +6957,7 @@
 		(fields_autoplaced yes)
 		(uuid "73492c69-591e-47c3-8622-116a527791f5")
 		(property "Reference" "#PWR0833"
-			(at 58.42 137.16 0)
+			(at 58.42 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6966,7 +6966,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 58.42 128.27 0)
+			(at 58.42 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6974,7 +6974,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 58.42 133.35 0)
+			(at 58.42 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6983,7 +6983,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 133.35 0)
+			(at 58.42 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6992,7 +6992,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 58.42 133.35 0)
+			(at 58.42 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7080,7 +7080,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 58.42 139.7 0)
+		(at 58.42 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7088,7 +7088,7 @@
 		(dnp no)
 		(uuid "7a03c148-98ca-45ed-81a3-b265a5d8e04f")
 		(property "Reference" "R812"
-			(at 57.912 141.986 90)
+			(at 57.912 135.636 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7097,7 +7097,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 57.912 137.922 90)
+			(at 57.912 131.572 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7106,7 +7106,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 58.42 139.7 0)
+			(at 58.42 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7115,7 +7115,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 58.42 139.7 0)
+			(at 58.42 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7124,7 +7124,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 58.42 139.7 0)
+			(at 58.42 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7133,7 +7133,7 @@
 			)
 		)
 		(property "Würth" "560112110020"
-			(at 58.42 139.7 0)
+			(at 58.42 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7290,7 +7290,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 55.88 133.35 0)
+		(at 55.88 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7299,7 +7299,7 @@
 		(fields_autoplaced yes)
 		(uuid "807fa377-9e4d-404a-9d2d-dc9abeae8735")
 		(property "Reference" "#PWR0832"
-			(at 55.88 137.16 0)
+			(at 55.88 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7308,7 +7308,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 55.88 128.27 0)
+			(at 55.88 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7316,7 +7316,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 133.35 0)
+			(at 55.88 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7325,7 +7325,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 133.35 0)
+			(at 55.88 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7334,7 +7334,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 55.88 133.35 0)
+			(at 55.88 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8058,7 +8058,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 24.13 133.35 0)
+		(at 24.13 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8067,7 +8067,7 @@
 		(fields_autoplaced yes)
 		(uuid "8cb57701-68b1-47a9-bf44-175a51dbe068")
 		(property "Reference" "#PWR0830"
-			(at 24.13 137.16 0)
+			(at 24.13 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8076,7 +8076,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 24.13 128.27 0)
+			(at 24.13 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8084,7 +8084,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 24.13 133.35 0)
+			(at 24.13 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8093,7 +8093,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 24.13 133.35 0)
+			(at 24.13 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8102,7 +8102,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 24.13 133.35 0)
+			(at 24.13 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8400,7 +8400,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 55.88 139.7 0)
+		(at 55.88 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8408,7 +8408,7 @@
 		(dnp no)
 		(uuid "972849e5-5494-47dd-a65c-558cbe059a2f")
 		(property "Reference" "R811"
-			(at 55.372 141.986 90)
+			(at 55.372 135.636 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8417,7 +8417,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 55.372 137.922 90)
+			(at 55.372 131.572 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8426,7 +8426,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 55.88 139.7 0)
+			(at 55.88 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8435,7 +8435,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 139.7 0)
+			(at 55.88 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8444,7 +8444,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 55.88 139.7 0)
+			(at 55.88 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8453,7 +8453,7 @@
 			)
 		)
 		(property "Würth" "560112110020"
-			(at 55.88 139.7 0)
+			(at 55.88 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8623,7 +8623,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 41.91 133.35 0)
+		(at 41.91 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8632,7 +8632,7 @@
 		(fields_autoplaced yes)
 		(uuid "a16ad3e1-f4bb-4791-90dc-5a528a749a5b")
 		(property "Reference" "#PWR0831"
-			(at 41.91 137.16 0)
+			(at 41.91 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8641,7 +8641,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 41.91 128.27 0)
+			(at 41.91 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8649,7 +8649,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 133.35 0)
+			(at 41.91 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8658,7 +8658,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 133.35 0)
+			(at 41.91 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8667,7 +8667,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 41.91 133.35 0)
+			(at 41.91 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8834,7 +8834,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 60.96 139.7 0)
+		(at 60.96 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8842,7 +8842,7 @@
 		(dnp no)
 		(uuid "b0f365f3-c665-4a45-a1cf-8e8b60106567")
 		(property "Reference" "R813"
-			(at 60.452 141.986 90)
+			(at 60.452 135.636 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8851,7 +8851,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 60.452 137.922 90)
+			(at 60.452 131.572 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8860,7 +8860,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 60.96 139.7 0)
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8869,7 +8869,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 139.7 0)
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8878,7 +8878,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 60.96 139.7 0)
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8887,7 +8887,7 @@
 			)
 		)
 		(property "Würth" "560112110020"
-			(at 60.96 139.7 0)
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9208,10 +9208,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c3942e5d-bc88-4bd2-a112-ddc17270f0c6")
 		(property "Reference" "D802"
-			(at 182.9435 124.46 0)
+			(at 179.07 129.794 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9224,6 +9223,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Library:LED_0603_1608Metric"
@@ -9706,10 +9706,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dd648463-ad01-4f44-b302-2a2a2af40324")
 		(property "Reference" "D801"
-			(at 182.9435 121.92 0)
+			(at 179.07 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9722,6 +9721,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Library:LED_0603_1608Metric"
@@ -9909,7 +9909,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 24.13 140.97 0)
+		(at 24.13 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9918,7 +9918,7 @@
 		(fields_autoplaced yes)
 		(uuid "e153b589-4273-4b0b-b0fe-fcb986457fd1")
 		(property "Reference" "C815"
-			(at 26.67 139.7062 0)
+			(at 26.67 133.3562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9927,7 +9927,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 26.67 142.2462 0)
+			(at 26.67 135.8962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9936,7 +9936,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 24.13 140.97 0)
+			(at 24.13 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9945,7 +9945,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 24.13 140.97 0)
+			(at 24.13 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9954,7 +9954,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 24.13 140.97 0)
+			(at 24.13 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9963,7 +9963,7 @@
 			)
 		)
 		(property "Würth" "885012205037"
-			(at 24.13 140.97 0)
+			(at 24.13 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)

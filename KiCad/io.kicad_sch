@@ -13132,6 +13132,7 @@
 	(symbol
 		(lib_id "FPGA-Devel:RKJXV1224")
 		(at 81.28 171.45 0)
+		(mirror y)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
