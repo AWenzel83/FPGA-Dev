@@ -1870,6 +1870,15 @@
 				(hide yes)
 			)
 		)
+		(property "Würth" "885012005018"
+			(at 200.66 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "748d6242-b40e-467d-8f83-ca5589d4fa73")
 		)
@@ -1931,6 +1940,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 214.63 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Würth" "560112110033"
+			(at 214.63 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2000,6 +2018,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 210.82 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Würth" "885012005018"
 			(at 210.82 124.46 0)
 			(effects
 				(font
@@ -2276,6 +2303,15 @@
 				(hide yes)
 			)
 		)
+		(property "Würth" "560112110020"
+			(at 190.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fc7fc66e-1b83-4836-9ff6-b7614aa0dc7c")
 		)
@@ -2337,6 +2373,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 214.63 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Würth" "560112110033"
+			(at 214.63 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2635,6 +2680,15 @@
 				(hide yes)
 			)
 		)
+		(property "Würth" "560112110020"
+			(at 152.4 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3491bdbb-f472-4994-adc7-cbe87865f0f9")
 		)
@@ -2858,6 +2912,15 @@
 				(hide yes)
 			)
 		)
+		(property "Würth" "885012205037"
+			(at 250.19 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5fc128ad-b185-4028-8927-de11bc2cf267")
 		)
@@ -2919,6 +2982,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 140.97 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Würth" "560112110033"
+			(at 140.97 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3054,6 +3126,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 190.5 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Würth" "560112110020"
 			(at 190.5 74.93 0)
 			(effects
 				(font
@@ -3262,6 +3343,15 @@
 				(hide yes)
 			)
 		)
+		(property "Würth" "560112110033"
+			(at 140.97 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a8ac544e-bb63-44f7-ae86-0fed44a4cbef")
 		)
@@ -3324,6 +3414,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 161.29 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Würth" "560112110020"
 			(at 161.29 74.93 0)
 			(effects
 				(font
