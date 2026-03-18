@@ -113,6 +113,16 @@
 	)
 	(bus
 		(pts
+			(xy 196.85 86.36) (xy 217.17 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c89d2cd4-523a-453c-a894-44fac157687c")
+	)
+	(bus
+		(pts
 			(xy 217.17 76.2) (xy 196.85 76.2)
 		)
 		(stroke
@@ -214,6 +224,17 @@
 			(justify left)
 		)
 		(uuid "382e77a0-1826-4fed-a9bd-ad096a7aa1e5")
+	)
+	(hierarchical_label "μSD"
+		(shape bidirectional)
+		(at 217.17 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3e6c508d-037f-4165-93a0-53e30ee2b0ae")
 	)
 	(hierarchical_label "Display"
 		(shape output)
@@ -507,6 +528,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "μSD" bidirectional
+			(at 196.85 86.36 0)
+			(uuid "ff327059-feec-4423-95c7-3577ee7079c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances

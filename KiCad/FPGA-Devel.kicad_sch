@@ -165,6 +165,16 @@
 	)
 	(bus
 		(pts
+			(xy 152.4 152.4) (xy 201.93 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a594bff-98d3-4e4d-8e91-233e3dda0665")
+	)
+	(bus
+		(pts
 			(xy 152.4 129.54) (xy 201.93 129.54)
 		)
 		(stroke
@@ -761,6 +771,16 @@
 				(justify right)
 			)
 		)
+		(pin "μSD" bidirectional
+			(at 152.4 152.4 0)
+			(uuid "897e8bed-1e1b-44d8-9bf6-76dd6702d86d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "FPGA-Devel"
 				(path "/514220ac-dc4f-4c87-8659-0dec0ea0336d"
@@ -1042,6 +1062,16 @@
 		(pin "Memory" bidirectional
 			(at 201.93 149.86 180)
 			(uuid "995d8648-ba27-4ba9-90a0-926c478c59d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "μSD" bidirectional
+			(at 201.93 152.4 180)
+			(uuid "5755a06c-d1ff-45b2-a9ae-abda5e224bb1")
 			(effects
 				(font
 					(size 1.27 1.27)
