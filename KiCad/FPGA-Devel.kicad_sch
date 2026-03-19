@@ -375,7 +375,7 @@
 			(uuid "4c0dfb94-062e-4d13-8735-b06c4ed36f3c")
 		)
 		(instances
-			(project ""
+			(project "FPGA-Devel"
 				(path "/514220ac-dc4f-4c87-8659-0dec0ea0336d"
 					(reference "H101")
 					(unit 1)

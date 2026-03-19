@@ -10111,7 +10111,7 @@
 			(uuid "271ea60a-5838-4b03-a6f2-875714e4192f")
 		)
 		(instances
-			(project ""
+			(project "FPGA-Devel"
 				(path "/514220ac-dc4f-4c87-8659-0dec0ea0336d/011d50a6-39ce-489b-b95a-b4738b3064a2"
 					(reference "#PWR0803")
 					(unit 1)
