@@ -7835,7 +7835,7 @@
 		(uuid "ff419ae6-bb79-48de-af1a-620bbe2674f2")
 	)
 	(label "μSD.CS"
-		(at 236.22 143.51 0)
+		(at 236.22 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8275,7 +8275,7 @@
 		(uuid "6df30499-3483-47d5-b6b9-2beab267e92d")
 	)
 	(label "μSD.MISO"
-		(at 236.22 133.35 0)
+		(at 236.22 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8425,7 +8425,7 @@
 		(uuid "b0e934dc-ff18-402c-8a06-18aa7aabcc9a")
 	)
 	(label "μSD.Detect"
-		(at 236.22 123.19 0)
+		(at 236.22 133.35 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8515,7 +8515,7 @@
 		(uuid "c5ead48d-bca6-4c22-a1cc-20448e4af8b2")
 	)
 	(label "μSD.MOSI"
-		(at 236.22 120.65 0)
+		(at 236.22 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8755,7 +8755,7 @@
 		(uuid "ee4b76f1-b17b-4a4d-85c4-9f0854c5ea34")
 	)
 	(label "μSD.SCLK"
-		(at 236.22 128.27 0)
+		(at 236.22 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)

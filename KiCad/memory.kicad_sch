@@ -1934,7 +1934,7 @@
 		(uuid "059f4bc2-82c2-45fd-aa50-1a21e3cde66c")
 	)
 	(junction
-		(at 176.53 77.47)
+		(at 172.72 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0ab63493-0e5b-45af-977b-f1fe7786ba5d")
@@ -1946,10 +1946,10 @@
 		(uuid "50771695-b39b-4a6b-82c3-583baddd6e8a")
 	)
 	(junction
-		(at 172.72 69.85)
+		(at 180.34 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6c12a172-6494-4bb8-a5ad-c1cd063d9949")
+		(uuid "6105f54d-0a31-48f0-8409-29857204b579")
 	)
 	(junction
 		(at 97.79 170.18)
@@ -1958,7 +1958,7 @@
 		(uuid "8c42596a-be9e-4e55-8225-f04854b4a802")
 	)
 	(junction
-		(at 180.34 74.93)
+		(at 176.53 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ba90cf8-eb18-46bf-9d0e-101e2eaef41f")
@@ -2129,7 +2129,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 55.88) (xy 176.53 77.47)
+			(xy 172.72 55.88) (xy 172.72 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2139,7 +2139,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 134.62) (xy 199.39 134.62)
+			(xy 176.53 134.62) (xy 199.39 134.62)
 		)
 		(stroke
 			(width 0)
@@ -2149,7 +2149,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 132.08) (xy 176.53 77.47)
+			(xy 172.72 132.08) (xy 172.72 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2179,7 +2179,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 77.47) (xy 199.39 77.47)
+			(xy 172.72 77.47) (xy 199.39 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2339,7 +2339,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 137.16) (xy 199.39 137.16)
+			(xy 180.34 137.16) (xy 199.39 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2449,23 +2449,13 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 132.08) (xy 199.39 132.08)
+			(xy 172.72 132.08) (xy 199.39 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "81927c63-1c0c-4586-8812-6ed2119db072")
-	)
-	(wire
-		(pts
-			(xy 199.39 69.85) (xy 172.72 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "88de3983-eb9e-44f2-9312-2527f52a0a91")
 	)
 	(bus
 		(pts
@@ -2529,7 +2519,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 134.62) (xy 180.34 74.93)
+			(xy 176.53 134.62) (xy 176.53 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2579,7 +2569,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 69.85) (xy 172.72 69.85)
+			(xy 105.41 69.85) (xy 180.34 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2629,7 +2619,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 137.16) (xy 172.72 69.85)
+			(xy 180.34 137.16) (xy 180.34 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2639,7 +2629,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 74.93) (xy 180.34 74.93)
+			(xy 105.41 74.93) (xy 176.53 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2679,7 +2669,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 45.72) (xy 180.34 50.8)
+			(xy 176.53 45.72) (xy 176.53 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2689,7 +2679,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 74.93) (xy 199.39 74.93)
+			(xy 176.53 74.93) (xy 199.39 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2719,7 +2709,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 55.88) (xy 180.34 74.93)
+			(xy 176.53 55.88) (xy 176.53 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2749,13 +2739,23 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 77.47) (xy 176.53 77.47)
+			(xy 105.41 77.47) (xy 172.72 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e85120cb-8449-4dfc-8a3c-a7cce21b92f0")
+	)
+	(wire
+		(pts
+			(xy 180.34 69.85) (xy 199.39 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eca8887a-7d3e-410c-a3bc-33c36237b06a")
 	)
 	(wire
 		(pts
@@ -2779,7 +2779,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 45.72) (xy 176.53 50.8)
+			(xy 172.72 45.72) (xy 172.72 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3869,7 +3869,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "10k"
 			(at 85.598 159.258 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3913,7 +3913,7 @@
 				)
 			)
 		)
-		(property "Würth" "560112110245"
+		(property "Würth" "560112110020"
 			(at 85.09 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -4254,7 +4254,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 180.34 53.34 0)
+		(at 176.53 53.34 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -4265,99 +4265,6 @@
 		(dnp no)
 		(uuid "95ceb4f4-fe7c-4089-a517-7a83e9e7f8f0")
 		(property "Reference" "R1002"
-			(at 180.848 55.372 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Value" "1k8"
-			(at 180.848 51.308 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right top)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 180.34 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 180.34 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 180.34 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Würth" "560112110209"
-			(at 180.34 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "38117dbb-0be1-4f09-9228-64ee5c207f26")
-		)
-		(pin "2"
-			(uuid "94329793-e574-422d-97d5-668675410e16")
-		)
-		(instances
-			(project "FPGA-Devel"
-				(path "/514220ac-dc4f-4c87-8659-0dec0ea0336d/efe3d53d-055e-440f-bb3c-d0361277ca3e"
-					(reference "R1002")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 176.53 53.34 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9bae3207-1a16-4890-ae81-f9ae8cb3be91")
-		(property "Reference" "R1001"
 			(at 177.038 55.372 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4414,6 +4321,99 @@
 		)
 		(property "Würth" "560112110209"
 			(at 176.53 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "38117dbb-0be1-4f09-9228-64ee5c207f26")
+		)
+		(pin "2"
+			(uuid "94329793-e574-422d-97d5-668675410e16")
+		)
+		(instances
+			(project "FPGA-Devel"
+				(path "/514220ac-dc4f-4c87-8659-0dec0ea0336d/efe3d53d-055e-440f-bb3c-d0361277ca3e"
+					(reference "R1002")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 172.72 53.34 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9bae3207-1a16-4890-ae81-f9ae8cb3be91")
+		(property "Reference" "R1001"
+			(at 173.228 55.372 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Value" "1k8"
+			(at 173.228 51.308 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right top)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 172.72 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 172.72 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Würth" "560112110209"
+			(at 172.72 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4790,7 +4790,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 176.53 45.72 0)
+		(at 172.72 45.72 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -4801,7 +4801,7 @@
 		(dnp no)
 		(uuid "c7792acb-735a-4463-a69d-f036f0456b7d")
 		(property "Reference" "#PWR01001"
-			(at 176.53 49.53 0)
+			(at 172.72 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4812,7 +4812,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 176.53 40.64 0)
+			(at 172.72 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4822,7 +4822,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 45.72 0)
+			(at 172.72 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4833,7 +4833,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 45.72 0)
+			(at 172.72 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4844,7 +4844,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 176.53 45.72 0)
+			(at 172.72 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5026,7 +5026,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 180.34 45.72 0)
+		(at 176.53 45.72 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5037,7 +5037,7 @@
 		(dnp no)
 		(uuid "f9be718b-d811-4552-84c7-e400cd3225ab")
 		(property "Reference" "#PWR01002"
-			(at 180.34 49.53 0)
+			(at 176.53 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5048,7 +5048,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 180.34 40.64 0)
+			(at 176.53 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5058,7 +5058,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 180.34 45.72 0)
+			(at 176.53 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5069,7 +5069,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 180.34 45.72 0)
+			(at 176.53 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5080,7 +5080,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 180.34 45.72 0)
+			(at 176.53 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

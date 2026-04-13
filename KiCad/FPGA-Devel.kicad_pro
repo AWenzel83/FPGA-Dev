@@ -562,7 +562,7 @@
   "schematic": {
     "annotate_start_num": 0,
     "annotation": {
-      "method": 0,
+      "method": 1,
       "sort_order": 0
     },
     "bom_export_filename": "bom/FPGA-Devel.csv",
@@ -650,7 +650,7 @@
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
-      "hop_over_size_choice": 0,
+      "hop_over_size_choice": 1,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
@@ -691,7 +691,7 @@
         "uuid": "514220ac-dc4f-4c87-8659-0dec0ea0336d"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR507-510,#PWR515-518,D1-4,D409,D502-505,R1-4,R454,R505-506,R508-509",
     "variants": []
   },
   "sheets": [

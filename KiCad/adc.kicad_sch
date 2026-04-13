@@ -1793,6 +1793,16 @@
 		)
 		(uuid "3f9d5d84-78c4-4914-a027-ff5b6469610a")
 	)
+	(label "IntX"
+		(at 203.2 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "61f02519-1cef-4fad-bd38-7856bac56904")
+	)
 	(label "ADC.SD_in0"
 		(at 119.38 85.09 0)
 		(effects
@@ -1802,6 +1812,16 @@
 			(justify left bottom)
 		)
 		(uuid "7e8ef7d0-f1ac-44cb-a3a0-08a6a8c2e5e4")
+	)
+	(label "IntY"
+		(at 203.2 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7ef8eb8d-fe82-4485-a554-3222aaa27111")
 	)
 	(label "ADC.FB_out1"
 		(at 119.38 119.38 0)

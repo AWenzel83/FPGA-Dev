@@ -3658,7 +3658,7 @@
 		(uuid "be023c36-6e27-4fce-a455-7649da7ed161")
 	)
 	(junction
-		(at 181.61 99.06)
+		(at 176.53 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c3253bb5-d532-4897-9bc1-af15ddf3ed52")
@@ -3763,7 +3763,7 @@
 		(uuid "0c60e987-b6f0-46cf-a301-baf090353675")
 	)
 	(bus_entry
-		(at 189.23 76.2)
+		(at 184.15 76.2)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -3826,7 +3826,7 @@
 		(uuid "37560e06-05e8-47b7-9e3b-13a5b8cf23f1")
 	)
 	(bus_entry
-		(at 168.91 76.2)
+		(at 161.29 76.2)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -4292,7 +4292,7 @@
 	)
 	(bus
 		(pts
-			(xy 151.13 76.2) (xy 168.91 76.2)
+			(xy 151.13 76.2) (xy 184.15 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4309,16 +4309,6 @@
 			(type default)
 		)
 		(uuid "0e317f8f-5345-4379-a508-675fe8923ab6")
-	)
-	(bus
-		(pts
-			(xy 168.91 76.2) (xy 189.23 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e91fb9b-0949-48a4-8978-b3cc55285ae8")
 	)
 	(bus
 		(pts
@@ -4392,7 +4382,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 78.74) (xy 191.77 99.06)
+			(xy 186.69 78.74) (xy 186.69 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4692,7 +4682,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 110.49) (xy 181.61 113.03)
+			(xy 176.53 110.49) (xy 176.53 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4912,7 +4902,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 97.79) (xy 181.61 99.06)
+			(xy 176.53 97.79) (xy 176.53 99.06)
 		)
 		(stroke
 			(width 0)
@@ -5202,7 +5192,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 78.74) (xy 171.45 99.06)
+			(xy 163.83 78.74) (xy 163.83 99.06)
 		)
 		(stroke
 			(width 0)
@@ -5552,7 +5542,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 91.44) (xy 181.61 92.71)
+			(xy 176.53 91.44) (xy 176.53 92.71)
 		)
 		(stroke
 			(width 0)
@@ -5762,7 +5752,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 99.06) (xy 196.85 99.06)
+			(xy 186.69 99.06) (xy 196.85 99.06)
 		)
 		(stroke
 			(width 0)
@@ -6562,7 +6552,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 99.06) (xy 181.61 100.33)
+			(xy 176.53 99.06) (xy 176.53 100.33)
 		)
 		(stroke
 			(width 0)
@@ -6952,7 +6942,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 99.06) (xy 181.61 99.06)
+			(xy 163.83 99.06) (xy 176.53 99.06)
 		)
 		(stroke
 			(width 0)
@@ -7061,7 +7051,7 @@
 		(uuid "ff579f03-0db1-427d-8913-3772609e7258")
 	)
 	(label "MISC{RST CLK}"
-		(at 170.18 76.2 0)
+		(at 154.94 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7231,7 +7221,7 @@
 		(uuid "47baec4f-a389-49d7-b0df-a3177903f7f2")
 	)
 	(label "MISC.CLK"
-		(at 191.77 78.74 0)
+		(at 186.69 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7281,7 +7271,7 @@
 		(uuid "60fc2582-92da-49c5-8a21-363c06b917b3")
 	)
 	(label "MISC.RST"
-		(at 171.45 78.74 0)
+		(at 163.83 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10171,7 +10161,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Omron_B3FS")
-		(at 181.61 105.41 270)
+		(at 176.53 105.41 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10182,7 +10172,7 @@
 		(fields_autoplaced yes)
 		(uuid "34bd0b15-46ff-489b-949d-a2aaef7d70b5")
 		(property "Reference" "SW405"
-			(at 185.42 105.4099 90)
+			(at 180.34 105.4099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10193,7 +10183,7 @@
 			)
 		)
 		(property "Value" "SW_Omron_B3FS"
-			(at 186.69 105.41 0)
+			(at 181.61 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10204,7 +10194,7 @@
 			)
 		)
 		(property "Footprint" "Library:SW_PUSH_6mm_H4.3mm"
-			(at 186.69 105.41 0)
+			(at 181.61 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10215,7 +10205,7 @@
 			)
 		)
 		(property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf"
-			(at 186.69 105.41 0)
+			(at 181.61 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10226,7 +10216,7 @@
 			)
 		)
 		(property "Description" "Omron B3FS 6x6mm single pole normally-open tactile switch"
-			(at 181.61 105.41 0)
+			(at 176.53 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10237,7 +10227,7 @@
 			)
 		)
 		(property "Würth" "430156043736"
-			(at 181.61 105.41 0)
+			(at 176.53 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12646,7 +12636,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 181.61 113.03 0)
+		(at 176.53 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12657,7 +12647,7 @@
 		(fields_autoplaced yes)
 		(uuid "77f2b586-84f6-4b40-968d-4fe9a404e177")
 		(property "Reference" "#PWR0428"
-			(at 181.61 119.38 0)
+			(at 176.53 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12668,7 +12658,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 181.61 118.11 0)
+			(at 176.53 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12678,7 +12668,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 181.61 113.03 0)
+			(at 176.53 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12689,7 +12679,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 113.03 0)
+			(at 176.53 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12700,7 +12690,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 181.61 113.03 0)
+			(at 176.53 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13350,7 +13340,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 181.61 91.44 0)
+		(at 176.53 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13361,7 +13351,7 @@
 		(fields_autoplaced yes)
 		(uuid "81ff12ae-0ae1-4eb7-9e3d-ba8c8fa77d03")
 		(property "Reference" "#PWR0423"
-			(at 181.61 95.25 0)
+			(at 176.53 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13372,7 +13362,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 181.61 86.36 0)
+			(at 176.53 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13382,7 +13372,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 181.61 91.44 0)
+			(at 176.53 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13393,7 +13383,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 91.44 0)
+			(at 176.53 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13404,7 +13394,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 181.61 91.44 0)
+			(at 176.53 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16725,7 +16715,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 181.61 95.25 180)
+		(at 176.53 95.25 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16735,7 +16725,7 @@
 		(dnp no)
 		(uuid "db514d0b-dbc8-4d67-8ad3-a35a99509df5")
 		(property "Reference" "R414"
-			(at 179.578 95.25 90)
+			(at 174.498 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16745,7 +16735,7 @@
 			)
 		)
 		(property "Value" "2k2"
-			(at 183.642 95.25 90)
+			(at 178.562 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16755,7 +16745,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 181.61 95.25 0)
+			(at 176.53 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16766,7 +16756,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 95.25 0)
+			(at 176.53 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16777,7 +16767,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 181.61 95.25 0)
+			(at 176.53 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16788,7 +16778,7 @@
 			)
 		)
 		(property "Würth" "560112110087"
-			(at 181.61 95.25 0)
+			(at 176.53 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
