@@ -1,0 +1,155 @@
+(footprint "WE-SKEDD_6Pos_Debug"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 6.985 0 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "eef54deb-cbb0-459a-b121-71f1e5606c10")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "490107670612"
+		(at -0.635 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a2e6476d-51da-44b6-8f09-0cfcfa4d21f1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.we-online.com/components/products/datasheet/490107670612.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2a49ff26-85f3-4926-9342-323bb97e52c1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Würth-Elektronik \"SKEDD\" 6-Polig Debug"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f6841c24-a103-4274-9858-c6acec419d86")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr board_only exclude_from_pos_files exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -7.605 -2.8)
+		(end 7.605 2.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d86fab8c-86cf-49c6-8030-671b493d6bbd")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f3045423-8f25-4bfe-bdb4-5c039de54e2c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -4.405 -1.27)
+		(size 2.2 2.2)
+		(drill 2.2)
+		(layers "*.Cu" "*.Mask")
+		(uuid "0fb8c51e-f8a1-43ab-b0d2-f066689eb687")
+	)
+	(pad "" np_thru_hole circle
+		(at 4.405 1.27)
+		(size 2.2 2.2)
+		(drill 2.2)
+		(layers "*.Cu" "*.Mask")
+		(uuid "447daf30-ca40-471b-bfbe-29f93bb34fe2")
+	)
+	(pad "1" thru_hole circle
+		(at 3.175 -1.27)
+		(size 1.85 1.85)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "674b77df-7381-4926-ba8d-b5deee48ab0c")
+	)
+	(pad "2" thru_hole circle
+		(at 1.905 1.27)
+		(size 1.85 1.85)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e10679b9-63e1-491f-b03c-b693e0750f09")
+	)
+	(pad "3" thru_hole circle
+		(at 0.635 -1.27)
+		(size 1.85 1.85)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "39e94dca-a6bd-45ca-b446-73567d176c1d")
+	)
+	(pad "4" thru_hole circle
+		(at -0.635 1.27)
+		(size 1.85 1.85)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8f3564cd-1e75-4198-81bc-6cee605472e3")
+	)
+	(pad "5" thru_hole circle
+		(at -1.905 -1.27)
+		(size 1.85 1.85)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "35d5feef-c625-4f5b-9970-8300ef4683e6")
+	)
+	(pad "6" thru_hole circle
+		(at -3.175 1.27)
+		(size 1.85 1.85)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "811ad3ff-ad53-4d4e-bc8a-76e8de0f8da8")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/steps/Download_STP_490107670612 (rev1).stp"
+		(offset
+			(xyz -2.4 0 6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
