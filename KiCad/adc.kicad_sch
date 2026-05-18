@@ -1122,6 +1122,12 @@
 		(uuid "03261a8e-100c-4126-bab4-5fc651df1436")
 	)
 	(junction
+		(at 135.89 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0f1e2247-799a-4c72-8c54-cd7135794a87")
+	)
+	(junction
 		(at 241.3 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1132,18 +1138,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b25d8d7-946e-40ac-bd64-f30b203f49a2")
-	)
-	(junction
-		(at 140.97 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3fcc980f-1435-490b-8cb7-7720e2a8c545")
-	)
-	(junction
-		(at 140.97 85.09)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6c0eb6a8-bac5-4369-bef3-91165c0cc17f")
 	)
 	(junction
 		(at 200.66 93.98)
@@ -1162,6 +1156,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d4eebca-4963-4471-af3f-c55591fb356c")
+	)
+	(junction
+		(at 135.89 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "902550c2-ddb3-4cfc-a8d5-3604c07b8c06")
 	)
 	(junction
 		(at 200.66 82.55)
@@ -1295,16 +1295,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 110.49) (xy 161.29 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12aacf79-deda-47b2-b98c-687c00545733")
-	)
-	(wire
-		(pts
 			(xy 200.66 93.98) (xy 200.66 82.55)
 		)
 		(stroke
@@ -1325,7 +1315,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 93.98) (xy 138.43 93.98)
+			(xy 104.14 93.98) (xy 135.89 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1493,6 +1483,16 @@
 		)
 		(uuid "628d7d52-f797-4a0b-81d1-c3548d4896f8")
 	)
+	(wire
+		(pts
+			(xy 135.89 93.98) (xy 138.43 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6861a980-a5f0-4620-98e6-3ba45ab5c6da")
+	)
 	(bus
 		(pts
 			(xy 101.6 91.44) (xy 101.6 107.95)
@@ -1555,7 +1555,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 110.49) (xy 140.97 110.49)
+			(xy 104.14 110.49) (xy 161.29 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1575,7 +1575,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 119.38) (xy 138.43 119.38)
+			(xy 104.14 119.38) (xy 135.89 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1665,6 +1665,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 119.38) (xy 138.43 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b60eb941-d6cc-4c42-81c2-ed80f026e300")
+	)
+	(wire
+		(pts
 			(xy 200.66 127) (xy 200.66 128.27)
 		)
 		(stroke
@@ -1725,7 +1735,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 85.09) (xy 140.97 85.09)
+			(xy 104.14 85.09) (xy 152.4 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1742,16 +1752,6 @@
 			(type default)
 		)
 		(uuid "f84facc4-a328-4f3a-97cb-31e79a0a0f8f")
-	)
-	(wire
-		(pts
-			(xy 140.97 85.09) (xy 152.4 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8904114-a9ec-4ac8-afb2-fa4ed16daf7e")
 	)
 	(label "ADC{SD_in[0..1] FB_out[0..1] }"
 		(at 59.69 50.8 0)
@@ -1877,7 +1877,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 140.97 110.49 0)
+		(at 135.89 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1885,10 +1885,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0968711f-e7d1-4252-a3a3-f8d961d6beb3")
 		(property "Reference" "TP904"
-			(at 143.51 107.1879 0)
+			(at 132.588 121.158 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1899,7 +1898,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 143.51 108.4579 0)
+			(at 138.43 117.3479 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1911,7 +1910,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 146.05 110.49 0)
+			(at 140.97 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1922,7 +1921,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 110.49 0)
+			(at 140.97 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1933,7 +1932,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 140.97 110.49 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4051,7 +4050,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 140.97 85.09 0)
+		(at 135.89 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4059,10 +4058,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d92dfac3-abbf-4fa9-b8f0-3017f368c86a")
 		(property "Reference" "TP903"
-			(at 143.51 81.7879 0)
+			(at 132.588 95.504 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4073,7 +4071,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 143.51 83.0579 0)
+			(at 138.43 91.9479 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4085,7 +4083,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 146.05 85.09 0)
+			(at 140.97 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4096,7 +4094,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 85.09 0)
+			(at 140.97 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4107,7 +4105,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 140.97 85.09 0)
+			(at 135.89 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
